@@ -1,0 +1,5 @@
+numpy>=1.26
+torch>=2.4
+soundfile>=0.12
+laion_clap>=1.1      # only for evaluation.LaionClapEncoder; any CLAP encoder can be plugged in
+pytest>=8            # tests only
